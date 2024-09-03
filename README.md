@@ -33,9 +33,9 @@ In addition to the core features, the project includes the following advanced en
 ## Implemented with BVH Architecture
 <img src="https://github.com/user-attachments/assets/0c568b11-26cd-47d1-9a47-0ec62d67eed5" alt="teapot" width="500"/>
 
-## Implemented with Reflection and Refraction
+## Reflection and Refraction Implemented with recursion
 <img src="https://github.com/user-attachments/assets/ee15fcea-cb3a-4c63-a78f-504011768f47" alt="pingPongTable" width="500"/>
 
-## Implemented with Super Sampling and Soft Shadow
+## Soft Shadow Implemented with Super Sampling
 <img src="https://github.com/user-attachments/assets/2c64506d-9ed5-4285-84b6-7ddd5f1bc048" alt="shadowTrianglesSphereSoft" width="500"/>
 
